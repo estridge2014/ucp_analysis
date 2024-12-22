@@ -9,11 +9,25 @@
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title></title>
+      <link>http://localhost:1313/posts/arrivals/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/arrivals/</guid>
+      <description>&lt;h2 id=&#34;arrivals&#34;&gt;Arrivals&lt;/h2&gt;&#xA;&lt;p&gt;Introduction paragraph of the analysis&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/detention/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/detention/</guid>
+      <description>&lt;h2 id=&#34;detention&#34;&gt;Detention&lt;/h2&gt;&#xA;&lt;p&gt;Analysis of detention conditions&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/release/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/release/</guid>
+      <description>&lt;h2 id=&#34;release&#34;&gt;Release&lt;/h2&gt;&#xA;&lt;p&gt;Analysis of detention conditions&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
