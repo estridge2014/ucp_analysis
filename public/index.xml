@@ -13,14 +13,21 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 22 Dec 2024 12:01:24 -0500</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;number one&lt;/li&gt;&#xA;&lt;li&gt;number two&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;information about myself:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;number one&lt;/li&gt;&#xA;&lt;li&gt;number two&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title></title>
+      <link>http://localhost:1313/posts/detention/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/detention/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Introduction paragraph of the analysis&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/arrivals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/arrivals/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

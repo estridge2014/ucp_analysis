@@ -4,5 +4,9 @@ draft = true
 title = 'About'
 +++
 
+information about myself:
+
+
 - number one
 - number two
+
